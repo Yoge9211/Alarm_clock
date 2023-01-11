@@ -1,5 +1,5 @@
 // Alarm sound for the alarm
-let AlarmSound = new Audio('/Alarm.mp3')
+let AlarmSound = new Audio('Alarm.mp3')
 AlarmSound.loop = true
 
 let alarmTime = null
